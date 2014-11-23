@@ -1,0 +1,14 @@
+{
+  "name": "jonnycinco",
+  "version": "0.0.0",
+  "description": "johnny-five goes to the disco",
+  "main": "main.js",
+  "dependencies": {
+    "express": "~4.10.2",
+    "socket.io": "~1.2.1",
+    "johnny-five": "~0.8.28"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
